@@ -1,0 +1,6 @@
+{
+  "name": "Odyssey Lab",
+  "description": "An interactive pedagogical platform for exploring HEC Paris's Odyssey 3.14 approach, featuring the Business Model Remix Lab, 14 Directions Explorer, and AI Odyssey Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
